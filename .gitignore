@@ -1,0 +1,5 @@
+# python .gitignore file.
+
+
+.venv
+**/.env
